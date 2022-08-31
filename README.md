@@ -54,7 +54,7 @@
 
 ### Featured Projects:
 
-<a href="/screenshots/roo" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
+<a href="https://github.com/HaziqSabtu/rooster-typescript" title="Rooster"><img src="/screenshots/Rooster%20Header.jpg" alt="Rooster"></a>
 
 <!--
 **HaziqSabtu/haziqsabtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
