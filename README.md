@@ -14,7 +14,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/haziqsabtu/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/haziqsabtu/)
-&nbsp;&nbsp;
 
 <!--
 **HaziqSabtu/haziqsabtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
