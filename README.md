@@ -54,8 +54,8 @@
 
 ### Featured Projects:
 
-<a href="https://github.com/HaziqSabtu/rooster-typescript" title="Rooster"><img src="/screenshots/SCP%20Header.jpg" alt="SCP"></a>
-<a href="https://github.com/HaziqSabtu/rooster-typescript" title="Rooster"><img src="/screenshots/Esp32%20Header.jpg" alt="ESP32"></a>
+<a href="https://github.com/HaziqSabtu/SpeedCameraPi" title="Rooster"><img src="/screenshots/SCP%20Header.jpg" alt="SCP"></a>
+<a href="https://github.com/fakemoses/football-car-computer-vision" title="Rooster"><img src="/screenshots/Esp32%20Header.png" alt="ESP32"></a>
 <a href="https://github.com/HaziqSabtu/rooster-typescript" title="Rooster"><img src="/screenshots/Rooster%20Header.jpg" alt="Rooster"></a>
 
 <!--
