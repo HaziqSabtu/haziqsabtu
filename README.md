@@ -54,6 +54,8 @@
 
 ### Featured Projects:
 
+<a href="https://github.com/HaziqSabtu/rooster-typescript" title="Rooster"><img src="/screenshots/SCP%20Header.jpg" alt="SCP"></a>
+<a href="https://github.com/HaziqSabtu/rooster-typescript" title="Rooster"><img src="/screenshots/ESP32%20Header.jpg" alt="ESP 32"></a>
 <a href="https://github.com/HaziqSabtu/rooster-typescript" title="Rooster"><img src="/screenshots/Rooster%20Header.jpg" alt="Rooster"></a>
 
 <!--
